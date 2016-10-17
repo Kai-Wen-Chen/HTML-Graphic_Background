@@ -1,4 +1,4 @@
-# HTML-Graphic_background
+# HTML-Graphic_Background
 Graphic background
 
 < body background="XXX" >< /body >: you can insert a graph, a picture or others as the background
